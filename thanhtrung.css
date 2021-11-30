@@ -10,15 +10,15 @@ html {
 
 }
 body {
-    background-image: url(/13-1.jpg);
+    background-image: url(/background-dep-ppt_110341618.jpg);
     background-position: 0 1000px;
     font-family: "Roboto",sans-serif;
    background-size: cover;
 }
 
 .container {
-    width: 900px;
-    height: 850px;
+    width: 800px;
+    height: 750px;
     margin: 0 auto;
     padding: 5rem;
     margin-top: 4rem;
@@ -29,7 +29,7 @@ body {
    
     /* background-image: url(https://cdn.pixabay.com/photo/2015/04/16/08/48/grid-725271_960_720.jpg);
      */
-  background-image: url(/13-1.jpg);
+  
   
 }
 img{
