@@ -11,9 +11,9 @@ html {
 }
 body {
     background-image: url(/background-dep-ppt_110341618.jpg);
-    
+    background-position: 0 1200px;
+    font-family: "Roboto",sans-serif;
    background-size: cover;
-   background-repeat: no-repeat;
 }
 
 .container {
